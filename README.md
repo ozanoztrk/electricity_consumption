@@ -1,7 +1,6 @@
 # Electricity Consumption Forecasting
 
-A comprehensive comparison of different machine learning and statistical models for electricity consumption forecasting. The project implements and evaluates multiple models including Fused Lasso, XGBoost, ElasticNet, ARIMA, and ETS.
-
+A comprehensive comparison of different machine learning and statistical models for electricity consumption forecasting. The project implements and evaluates multiple models including Fused Lasso, XGBoost, ElasticNet.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13aUCxN6sjWq_33UeqmDgWDv2b8k54Szx?usp=sharing)
 
 ## Overview
