@@ -19,8 +19,6 @@ This project focuses on forecasting electricity consumption using various time s
 - Fused Lasso (with CVXPY optimization)
 - XGBoost
 - ElasticNet
-- AutoARIMA
-- AutoETS
 
 ## Features
 
